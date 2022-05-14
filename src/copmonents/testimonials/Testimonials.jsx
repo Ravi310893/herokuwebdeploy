@@ -38,9 +38,9 @@ const Testimonials = () => {
                 </div>
                 <h5 className='client_name'>Shivom SecuraNation</h5>
                     <small className='client_review'>
-                        Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                        Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                        Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                        This is the Experience Document provided by shivomSecurnation.
+                        I was associate developer here and worked on css and html, and
+                        other functionalities of web development.
                     </small>
             </SwiperSlide>
             <SwiperSlide className='testimonial'>
@@ -49,9 +49,8 @@ const Testimonials = () => {
                 </div>
                 <h5 className='client_name'>C-Certification</h5>
                     <small className='client_review'>
-                        Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                        Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                        Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                       Have knowledge of Basics Of C language,
+                       certifiction provided by Programming Hub.
                     </small>
             </SwiperSlide>
             <SwiperSlide className='testimonial'>
@@ -60,9 +59,8 @@ const Testimonials = () => {
                 </div>
                 <h5 className='client_name'>Oak Tree Software</h5>
                     <small className='client_review'>
-                        Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                        Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                        Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                       This is my Salesforce cloud Intern-Ship certificate.
+                       provided By company "Oak Tree cloud".
                     </small>
             </SwiperSlide>
            

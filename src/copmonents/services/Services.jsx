@@ -15,28 +15,25 @@ const Services = () => {
            <ul className='service_list'>
              <li>
                <BiCheck className='service_list-icon'/>
-               <p>Lorem ipsum dolor sit amet consectetur, elit.</p>
+               <p>Have Knowledge of React.js and its functionalities.</p>
              </li>
              <li>
                <BiCheck className='service_list-icon'/>
-               <p>Lorem ipsum dolor sit amet consectetur, elit.</p>
+               <p>Made projects Using React.js and Deployed them live.</p>
              </li>
              <li>
                <BiCheck className='service_list-icon'/>
-               <p>Lorem ipsum dolor sit amet consectetur, elit.</p>
+               <p>worked on API's in live project.</p>
              </li>
              <li>
                <BiCheck className='service_list-icon'/>
-               <p>Lorem ipsum dolor sit amet consectetur, elit.</p>
+               <p>Know about React State Functionalities.</p>
              </li>
              <li>
                <BiCheck className='service_list-icon'/>
-               <p>Lorem ipsum dolor sit amet consectetur, elit.</p>
+               <p>This website is Made Using React.js.</p>
              </li>
-             <li>
-               <BiCheck className='service_list-icon'/>
-               <p>Lorem ipsum dolor sit amet consectetur, elit.</p>
-             </li>
+            
            </ul>
          </article>
          {/* end of react.js */}
@@ -47,32 +44,21 @@ const Services = () => {
            <ul className='service_list'>
              <li>
                <BiCheck className='service_list-icon'/>
-               <p>Lorem ipsum dolor sit amet consectetur, elit.</p>
+               <p>Can Work as Quality Analyst Engineer in Organization.</p>
              </li>
              <li>
                <BiCheck className='service_list-icon'/>
-               <p>Lorem ipsum dolor sit amet consectetur, elit.</p>
+               <p>Have Knowledge of core Java can perform QA in backend.</p>
              </li>
              <li>
                <BiCheck className='service_list-icon'/>
-               <p>Lorem ipsum dolor sit amet consectetur, elit.</p>
+               <p>Have knowledge of Javascript also perform QA in Frontend.</p>
              </li>
              <li>
                <BiCheck className='service_list-icon'/>
-               <p>Lorem ipsum dolor sit amet consectetur, elit.</p>
+               <p>By working and Deploying on various projects deveolp capacity to analyze bugy codes.</p>
              </li>
-             <li>
-               <BiCheck className='service_list-icon'/>
-               <p>Lorem ipsum dolor sit amet consectetur, elit.</p>
-             </li>
-             <li>
-               <BiCheck className='service_list-icon'/>
-               <p>Lorem ipsum dolor sit amet consectetur, elit.</p>
-             </li>
-             <li>
-               <BiCheck className='service_list-icon'/>
-               <p>Lorem ipsum dolor sit amet consectetur, elit.</p>
-             </li>
+           
            </ul>
          </article>
          {/* end of QA  */}
@@ -83,28 +69,25 @@ const Services = () => {
            <ul className='service_list'>
              <li>
                <BiCheck className='service_list-icon'/>
-               <p>Lorem ipsum dolor sit amet consectetur, elit.</p>
+               <p>can work as web developer.</p>
              </li>
              <li>
                <BiCheck className='service_list-icon'/>
-               <p>Lorem ipsum dolor sit amet consectetur, elit.</p>
+               <p>Have knowledge of Css,Html also made a Website using these.</p>
              </li>
              <li>
                <BiCheck className='service_list-icon'/>
-               <p>Lorem ipsum dolor sit amet consectetur, elit.</p>
+               <p>Familiar with various Stages of Web Development.</p>
              </li>
              <li>
                <BiCheck className='service_list-icon'/>
-               <p>Lorem ipsum dolor sit amet consectetur, elit.</p>
+               <p>Worked on React and other technologies of FrontEnd.</p>
              </li>
              <li>
                <BiCheck className='service_list-icon'/>
-               <p>Lorem ipsum dolor sit amet consectetur, elit.</p>
+               <p>Familiar with Node.js And other MERN technolgies.</p>
              </li>
-             <li>
-               <BiCheck className='service_list-icon'/>
-               <p>Lorem ipsum dolor sit amet consectetur, elit.</p>
-             </li>
+             
            </ul>
          </article>
          {/* Frondend Support end */}

@@ -23,12 +23,12 @@ const Abouts = () => {
                <article className='about_card'>
                  <FaAward className='about_icon'/>
                  <h5>Experience</h5>
-                  <small> 3+ years working</small>
+                  <small> 1+ years working</small>
                </article>
                <article className='about_card'>
                  <FiUsers className='about_icon'/>
                    <h5>Clients</h5>
-                    <small> Clients world wide</small>
+                    <small>NationWide</small>
                </article>
                <article className='about_card'>
                    <RiFolder5Fill className='about_icon'/>
@@ -36,11 +36,13 @@ const Abouts = () => {
                      <small>10+ Projects</small>
                </article>
              </div>
-             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Omnis libero 
-                nostrum harum, repudiandae dolorum assumenda! Corporis quaerat qui
-                quam facilis libero. Molestiae facere vero recusandae nemo.</p>
+             <p>Hello, I am Ravi Rana,Learning Fullstack Developer,have Knowledge Of Javascript,
+                Java and various Techs Mentioned In this website-Resume. Looking For a Opportunity to 
+                Further Enhance skills for Development of Organization as well as mine. If You Are Intrested
+                Click The  Button below.
+             </p>
 
-                <a href="#about" className='btn btn-primary'>Let's Talk</a>
+                <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>
     </section>
